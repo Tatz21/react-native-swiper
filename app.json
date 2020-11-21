@@ -1,0 +1,12 @@
+{
+  "name": "swiper-native",
+  "displayName": "swiper-native",
+  "expo": {
+    "name": "swiper-native",
+    "slug": "swiper-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
